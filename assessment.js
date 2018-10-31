@@ -46,7 +46,7 @@
     };
 
     userNameInput.onkeydown = (event) => {
-        if (event.keyCode === 13) {
+        if (event.keyCode === 14) {
             assessmentButton.onclick();
         }
     };
